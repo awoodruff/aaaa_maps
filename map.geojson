@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "#0000FF"
+        "fill": "#FF0000"
       },
       "geometry": {
         "type": "Polygon",
